@@ -1,4 +1,3 @@
-#from tkinter import *
 import requests
 import json
 from pythonping import *
